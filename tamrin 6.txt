@@ -1,0 +1,35 @@
+JavaScript Object Notation
+
+JSON یک فرمت ساده برای ذخیره و انتقال داده‌ها است.
+
+{
+  "name": "ghazal",
+  "age": 22,
+  "studentId": 12345,
+  "major": "Multimedia"
+}
+
+Extensible Markup Language
+است.
+XML هم برای ذخیره و انتقال اطلاعات استفاده می‌شود.
+
+<Student>
+    <Name>ghazal</Name>
+    <Age>22</Age>
+    <StudentId>12345</StudentId>
+    <Major>Multimedia</Major>
+</Student>
+
+JSON
+ساده‌تر و معمولاً کم‌حجم‌تر
+خواندن آن برای انسان راحت است
+از ساختار key/value استفاده می‌کند
+در APIهای مدرن بسیار رایج است
+
+
+XML
+
+معمولاً طولانی‌تر
+خواندنش کمی شلوغ‌تر است
+از Tag استفاده می‌کند
+در بعضی سیستم‌های قدیمی و برخی استانداردها هنوز استفاده می‌شود

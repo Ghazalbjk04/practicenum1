@@ -1,0 +1,20 @@
+Uniform Resource Locator
+
+URL آدرس یک منبع در اینترنت .
+مثلاً:
+https://www.example.com/products?id=25
+
+۱. Protocol
+https
+مشخص می‌کنه از چه پروتکلی برای ارتباط استفاده می‌شه
+۲. Domain
+www.example.com
+آدرس سایت یا سرور 
+۳. Path
+/products
+مشخص میکنه به کدوم بخش یا منبع از سایت میخوایم دسترسی داشته باشیم 
+۴. Query Parameter
+?id=25
+اطلاعات اضافی رو به سرور ارسال می‌کنه.
+id = 25
+یعنی شناسه  25 عه
